@@ -1,4 +1,4 @@
 # apnacollege-demoams
 This is the first repository
 <br>
-Authore - kp lodhi
+Authore - kp lodhi(amsomedemo)
